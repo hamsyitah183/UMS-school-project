@@ -1,3 +1,5 @@
 Study more about JS in the near future. 
 
-and learn new frontend
+and learn new frontend framework
+
+and learn new backend framework
