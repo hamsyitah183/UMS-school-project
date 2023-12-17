@@ -3,3 +3,5 @@ Study more about JS in the near future.
 and learn new frontend framework
 
 and learn new backend framework
+-learn more in detail laravel PHP
+-learn sikit2 codeigniter
