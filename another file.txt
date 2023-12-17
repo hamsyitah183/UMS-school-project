@@ -1,5 +1,11 @@
 Study more about JS in the near future. 
 
 and learn new frontend framework
--eg: next js
+
+-learn more about react js
+
+
+
 and learn new backend framework
+-learn more in detail laravel PHP
+-learn sikit2 codeigniter
