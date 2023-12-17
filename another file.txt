@@ -1,5 +1,5 @@
 Study more about JS in the near future. 
 
 and learn new frontend framework
-
+-eg: next js
 and learn new backend framework
